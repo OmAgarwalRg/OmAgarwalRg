@@ -17,11 +17,6 @@ I enjoy solving real-world problems with code and continually improving my skill
 
 ---
 
-### 📈 GitHub Stats
-![OmAgarwalRg's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmAgarwalRg&show_icons=true&theme=radical)
-
----
-
 ### ⚡ Fun Fact
 I believe in writing clean, maintainable code and love to learn something new every day!
 
